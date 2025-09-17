@@ -1,4 +1,3 @@
-# Arduino-Gesture-Car
 # Arduino-Powered Hand Gesture Controlled Car 🚗✋
 
 This project implements a **hand gesture controlled robotic car** using **Arduino microcontrollers**, an **MPU6050 sensor**, and **nRF24L01 wireless communication modules**.  
